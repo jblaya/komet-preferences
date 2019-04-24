@@ -7,8 +7,8 @@
 <entry key="b78c7329-e644-3737-b2c8-ca4ff2554c07.Keys.PATH_CONCEPT" value="Development path (SOLOR)◽Development path◽1f200ca6-960e-11e5-8994-feff819cdc9f"/>
 <entry key="b78c7329-e644-3737-b2c8-ca4ff2554c07.Keys.PATH_CONCEPT_OPTIONS" value="Master path (SOLOR)◽Master path◽1f20134a-960e-11e5-8994-feff819cdc9f◽2faa9260-8fb2-11db-b606-0800200c9a66|!%|Development path (SOLOR)◽Development path◽1f200ca6-960e-11e5-8994-feff819cdc9f"/>
 <entry key="b78c7329-e644-3737-b2c8-ca4ff2554c07.Keys.SHIRO_INI" value="[main]&#10;sha256Matcher = org.apache.shiro.authc.credential.Sha256CredentialsMatcher&#10;sha256Matcher.storedCredentialsHexEncoded = false&#10;iniRealm.credentialsMatcher = $sha256Matcher&#10;securityManager.sessionManager.globalSessionTimeout = -1&#10;&#10;[users]&#10;admin = 9CRLLKwTexbVxuK9ut8PPDqMAbO/8ulu5PcJdm+8ilA=, admin&#10;&#10;[roles]&#10;admin = *&#10;"/>
-<entry key="b78c7329-e644-3737-b2c8-ca4ff2554c07.Keys.USER_CONCEPT" value="Joaquin Blaya◽3de86427-2268-4d58-b959-51d873c115fe"/>
-<entry key="b78c7329-e644-3737-b2c8-ca4ff2554c07.Keys.USER_CONCEPT_OPTIONS" value="Joaquin Blaya◽3de86427-2268-4d58-b959-51d873c115fe|!%|Saif Baig◽16243af7-c7e6-4a88-af19-8aceab6251a4"/>
+<entry key="b78c7329-e644-3737-b2c8-ca4ff2554c07.Keys.USER_CONCEPT" value="Saif Baig◽16243af7-c7e6-4a88-af19-8aceab6251a4"/>
+<entry key="b78c7329-e644-3737-b2c8-ca4ff2554c07.Keys.USER_CONCEPT_OPTIONS" value="Saif Baig◽16243af7-c7e6-4a88-af19-8aceab6251a4|!%|Joaquin Blaya◽3de86427-2268-4d58-b959-51d873c115fe"/>
 <entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.UserPreferencesPanel"/>
 <entry key="sh.isaac.api.preferences.PreferenceNodeType" value="CONFIGURATION"/>
 </map>
