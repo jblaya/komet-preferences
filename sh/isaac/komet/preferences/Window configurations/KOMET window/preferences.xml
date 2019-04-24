@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+<entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
+<entry key="69943734-699a-30f4-a2fb-c2320a4ce7ff.Keys.CENTER_TAB_NODES" value="Concept details panel (SOLOR)◽Concept details panel◽9c71cce9-9080-56c1-ad17-bf2896dcbe85|!%|Concept details panel (SOLOR)◽Concept details panel◽9c71cce9-9080-56c1-ad17-bf2896dcbe85"/>
+<entry key="69943734-699a-30f4-a2fb-c2320a4ce7ff.Keys.LEFT_TAB_NODES" value="Taxonomy panel (SOLOR)◽Taxonomy panel◽55773602-b8f4-560b-990b-5df1cfb1af23"/>
+<entry key="69943734-699a-30f4-a2fb-c2320a4ce7ff.Keys.RIGHT_TAB_NODES" value="Activities panel (SOLOR)◽Activities panel◽b219cca8-b82b-5ab8-83f6-a24c89e9ce19|!%|Simple search panel (SOLOR)◽Simple search panel◽42ca3cab-fc8f-5aba-a2af-4f025f4779b1|!%|Extended search panel (SOLOR)◽Extended search panel◽0db1a50b-c2ed-588b-a4c7-3e753bad565e"/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.WindowPreferencePanel"/>
+<entry key="sh.isaac.api.preferences.PreferenceNodeType" value="CONFIGURATION"/>
+</map>
